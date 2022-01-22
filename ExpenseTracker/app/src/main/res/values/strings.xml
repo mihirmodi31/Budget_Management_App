@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="web_client_id">717678550368-rodt8mrnk7kon00mvl9sh4aiop3f97la.apps.googleusercontent.com</string>
+    <string name="login_title">Please login with your Google account.</string>
+    <string name="login_detail">Don\'t worry, you can still use this app when you are offline. Your changes will be automatically stored in database when you connect to internet.</string>
+
+</resources>
